@@ -263,7 +263,7 @@
         width: 61px;
         cursor: pointer;
         position: relative;
-        background-image: url("./sources/images/search.svg");
+        background-image: url(/sources/images/search.svg);
         background-size: 45%;
         background-repeat: no-repeat;
         background-position-x: center;
@@ -397,25 +397,25 @@
 
 
     .social-icon__twit{
-        background-image: url(./twitter.svg);      
+        background-image: url(/twitter.svg);      
        
     }
     
     .social-icon__pinter{
-        background-image: url(./pinterest.svg);
+        background-image: url(/pinterest.svg);
     }
 
     .social-icon__faceb{
-        background-image: url(./002-facebook-logo.svg);
+        background-image: url(/002-facebook-logo.svg);
         
     }
 
     .social-icon__inst{
-        background-image: url(./005-instagram.svg);
+        background-image: url(/005-instagram.svg);
     }
 
     .social-icon__teleg{
-        background-image: url(./003-tumblr.svg);
+        background-image: url(/003-tumblr.svg);
     }
 
     .icons-social{
