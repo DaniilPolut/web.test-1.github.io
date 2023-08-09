@@ -263,7 +263,7 @@
         width: 61px;
         cursor: pointer;
         position: relative;
-        background-image: url(/sources/images/search.svg);
+        background-image: url(./sources/images/search.svg);
         background-size: 45%;
         background-repeat: no-repeat;
         background-position-x: center;
